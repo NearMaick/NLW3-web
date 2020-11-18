@@ -5,7 +5,7 @@ import './styles/global.css';
 import Routes from './routes';
 
 const App: React.FC = () => {
-  // Parei aqui: 1:23'23
+  // Parei aqui: 1:31'39
   return <Routes />;
 };
 
